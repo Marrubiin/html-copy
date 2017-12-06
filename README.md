@@ -1,9 +1,10 @@
 # html-copy
 html页面复制
 
-<div id="value">需要复制的内容</div>
+"<div id="value">需要复制的内容</div>"
 
-<div id="copy_btn">复制按钮</div>
+"<div id="copy_btn">复制按钮</div>"
+
 
 $('#copy_btn').click(function () {
 
